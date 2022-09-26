@@ -1,24 +1,23 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Portugues",
+      "description": "👋 Me chamo Diego Sousa, sou desenvolvedor de software e apaixonado por tecnologia. Atualmente trabalho como desenvolvedor full-stack.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Sobre mim",
+        "projects": "Projetos",
+        "skills": "Habilidades",
+        "experience": "Experiência"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Chocolate-Pizza",
+        "startDate": "2022",
+        "description": "Recriando a página inicial do site Chocolate Pizza",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Chocolate-pizza/p1.png"
         ],
-        "url": "",
+        "url": "https://dmenezessousa.github.io/chocolate-pizza/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +34,13 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
+        "title": "JeoPardy",
+        "startDate": "2022",
+        "description": "Jogo de perguntas e respostas",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/Jeopardy/p1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://dmenezessousa.github.io/jquery-jeopardy/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +53,13 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Gallery of Horns",
+        "startDate": "2022",
+        "description": "Site feito com React, onde é possível visualizar imagens de animais com chifres.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/Gallery-of-horns/p1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://rad-custard-39154b.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -81,35 +78,32 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows",
+        "title": "Desenvolvedor Full-Stack",
+        "years": "9.2022 - presente",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "MDBootstrap"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
+        "company": "Confires",
+        "title": "Tecnico de Alarmes de Incendio",
+        "years": "01.2018 - 09.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Alarmes de Incendio"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Alarmes de Incendio",
+          "CFTV",
+          "Controle de Acesso",
+          "Redes de Computadores"
         ]
       }
     ]
