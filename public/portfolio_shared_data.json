@@ -1,20 +1,20 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Diego Sousa",
+      "titles": [ "Software Engineer Targeting React, Node, Express, MongoDB Opportunities" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/dmenezessousa",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/diego-sousa-6448b7130/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "profile.jpeg"
     },
     "skills": {
       "icons": [
@@ -27,16 +27,6 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
@@ -52,16 +42,30 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
+        },{
+          "name": "Express",
+          "class": "devicon-express-original",
+          "level": "95"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "95"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "95"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-plain",
+          "level": "95"
+        },
+        {
+          "name": "Heroku",
+          "class": "devicon-heroku-plain",
+          "level": "95"
         }
       ]
     }
