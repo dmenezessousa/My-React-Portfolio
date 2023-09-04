@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Diego Sousa",
-      "titles": [ "Software Engineer Targeting React, Node, Express, MongoDB Opportunities" ],
+      "titles": [ "Full Stack Software Engineer Targeting React, Node, Express, MongoDB Opportunities" ],
       "social": [
         {
           "name": "github",
@@ -10,7 +10,7 @@
         },
         {
           "name": "linkedin",
-          "url": "https://www.linkedin.com/in/diego-sousa-6448b7130/",
+          "url": "https://www.linkedin.com/in/diegomsousa/",
           "class": "fab fa-linkedin"
         }
       ],

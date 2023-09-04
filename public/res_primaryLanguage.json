@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Diego Sousa. I’m a Software developer  with a creative attitude to problem solving.  I decided to pursue software development for the opportunity to work remotely or be a freelancer . I choose this skill because it is the most sort-out nowadays. In my last position as Fire Alarm Technician . I was responsible for the inspection and maintenance of fire alarm system making sure they were up to date. Some of the software given to us had a lot of bugs or were not up to date, so I thought I could learn it and help other techs with my coding  skills.  I’m sure I can use my expertise to achieve great results with this initiative .",
+      "description": "👋 I'm Diego Sousa, a passionate developer dedicated to crafting innovative web apps that seamlessly integrate cutting-edge technologies and captivating design elements. With a background as a Fire Alarm Technician, I bring a unique blend of precision and creativity to my programming, ensuring that every app I create runs fast and smoothly. My expertise lies in harnessing the power of the latest front-end and back-end frameworks, including React, Bootstrap, Node, Express, and MongoDB. I am committed to pushing the boundaries of what's possible in web development, delivering exceptional user experiences and transformative digital solutions.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -12,8 +12,8 @@
     "projects": [
       {
         "title": "Chocolate-Pizza",
-        "startDate": "2022",
-        "description": "This is a website that I made for a project. It can be used for a restaurant or a bakery. It has a menu and a contact page.",
+        "startDate": "2023",
+        "description": "A simple recipe blog page built with HTML and CSS.",
         "images": [
           "images/portfolio/Chocolate-pizza/p1.png"
         ],
@@ -30,13 +30,13 @@
         ]
       },
       {
-        "title": "Jeopardy",
-        "startDate": "2022",
-        "description": "This is a website that I made for a project. It is a game that you can play with your friends. It has a lot of categories and you can choose the difficulty of the questions. It is responsive and it has a lot of animations.",
+        "title": "Pong",
+        "startDate": "2023",
+        "description": "A simple pong game built with HTML, CSS, and JavaScript. The game is played with the arrow keys and the space bar.",
         "images": [
-          "images/portfolio/Jeopardy/p1.png"
+          "images/portfolio/Pong/pong.png"
         ],
-        "url": "https://dmenezessousa.github.io/jquery-jeopardy/",
+        "url": "https://dmenezessousa.github.io/ping-pong/",
         "technologies": [
           {
             "class": "fab fa-html5",
@@ -52,13 +52,14 @@
         ]
       },
       {
-        "title": "Gallery Of Horns",
-        "startDate": "2022",
-        "description": "One of the first projects using React. It is a website that you can filter the images by the number of horns. It is responsive and it has a lot of animations.",
+        "title": "DrinkLink",
+        "startDate": "2023",
+        "description": "A classy drinks app that allows users to search for cocktails and non-alcoholic beverages. Users receive recipes and ingredients with the ability to store favorites. Hosted Live with Netlify and Heroku. Built with MERN stack, Sass, and Auth0.",
         "images": [
-          "images/portfolio/Gallery-of-horns/p1.png"
+          "images/portfolio/DrinkHub/drinklink2.png",
+          "images/portfolio/DrinkHub/drinklink.png"
         ],
-        "url": "https://rad-custard-39154b.netlify.app/",
+        "url": "https://dmsdrinklink.netlify.app/",
         "technologies": [
           {
             "class": "fab fa-react",
@@ -74,18 +75,29 @@
     ],
     "experience": [
       {
-        "company": "Code Fellows",
+        "company": "General Assembly",
         "title": "Full Stack Developer",
-        "years": "9.2022 - present",
+        "years": "6.2023 - present",
         "mainTech": [
-          "React"
+          "MERN Stack"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap"
+          "MDBootstrap",
+          "React",
+          "Redux",
+          "Node",
+          "Express",
+          "MongoDB",
+          "Mongoose",
+          "Sass",
+          "Auth0",
+          "Heroku",
+          "Netlify",
+          "Git"
         ]
       },
       {

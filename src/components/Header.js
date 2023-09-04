@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Switch from "@brookr/react-switch";
 import Nav from 'react-bootstrap/Nav'
+import ProfileImg from "../components/diegoProfile.jpg";
 import { LinkContainer } from "react-router-bootstrap";
 
 class Header extends Component {
@@ -101,8 +102,20 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
-              <br/>
+              <img style={{ 
+                borderRadius: '50%',
+                border: '5px solid #baaa80',
+                boxShadow: '0 0 0 5px #353239',
+                width: '200px',
+                height: '200px',
+                margin: '0 auto',
+                display: 'block',
+                objectFit: 'cover',
+                zIndex: 9999
+
+              } } className="img-fluid main-img" src={ProfileImg} alt="avatar" />
+              {/* <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span> */}
+              <br />
               <h1 className="mb-0">
                 {name}
               </h1>

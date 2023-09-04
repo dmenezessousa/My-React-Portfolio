@@ -34,13 +34,13 @@
         ]
       },
       {
-        "title": "JeoPardy",
-        "startDate": "2022",
-        "description": "Jogo de perguntas e respostas",
+        "title": "Pong",
+        "startDate": "2023",
+        "description": "A simple pong game built with HTML, CSS, and JavaScript. The game is played with the arrow keys and the space bar.",
         "images": [
-          "images/portfolio/Jeopardy/p1.png"
+          "images/portfolio/Pong/pong.png"
         ],
-        "url": "https://dmenezessousa.github.io/jquery-jeopardy/",
+        "url": "https://dmenezessousa.github.io/ping-pong/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -53,13 +53,14 @@
         ]
       },
       {
-        "title": "Gallery of Horns",
-        "startDate": "2022",
-        "description": "Site feito com React, onde é possível visualizar imagens de animais com chifres.",
+        "title": "DrinkLink",
+        "startDate": "2023",
+        "description": "A classy drinks app that allows users to search for cocktails and non-alcoholic beverages. Users receive recipes and ingredients with the ability to store favorites. Hosted Live with Netlify and Heroku. Built with MERN stack, Sass, and Auth0.",
         "images": [
-          "images/portfolio/Gallery-of-horns/p1.png"
+          "images/portfolio/DrinkHub/drinklink2.png",
+          "images/portfolio/DrinkHub/drinklink.png"
         ],
-        "url": "https://rad-custard-39154b.netlify.app/",
+        "url": "https://dmsdrinklink.netlify.app/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -78,18 +79,29 @@
     ],
     "experience": [
       {
-        "company": "Code Fellows",
+        "company": "General Assembly",
         "title": "Desenvolvedor Full-Stack",
         "years": "9.2022 - presente",
         "mainTech": [
-          "React"
+          "MERN Stack"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap"
+          "MDBootstrap",
+          "React",
+          "Redux",
+          "Node",
+          "Express",
+          "MongoDB",
+          "Mongoose",
+          "Sass",
+          "Auth0",
+          "Heroku",
+          "Netlify",
+          "Git"
         ]
       },
       {
