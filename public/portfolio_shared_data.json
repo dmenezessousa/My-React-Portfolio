@@ -12,6 +12,11 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/diegomsousa/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "Resume",
+          "url": "https://docs.google.com/document/d/1ChfU7lvaDML65EeM0OB3IH-9U9rWB_Q65j4pQRf8rEE/edit?usp=sharing",
+          "class": "fas fa-file"
         }
       ],
       "image": "diegoProfile.jpg"
@@ -34,13 +39,13 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "75"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
           "level": "85"
         },{
           "name": "Express",
@@ -48,9 +53,19 @@
           "level": "95"
         },
         {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "95"
+        },
+        {
           "name": "MongoDB",
           "class": "devicon-mongodb-plain",
           "level": "95"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "75"
         },
         {
           "name": "Git",

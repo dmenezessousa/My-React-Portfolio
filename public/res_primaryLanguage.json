@@ -11,28 +11,9 @@
     },
     "projects": [
       {
-        "title": "Chocolate-Pizza",
-        "startDate": "2023",
-        "description": "A simple recipe blog page built with HTML and CSS.",
-        "images": [
-          "images/portfolio/Chocolate-pizza/p1.png"
-        ],
-        "url": "https://dmenezessousa.github.io/chocolate-pizza/",
-        "technologies": [
-          {
-            "class": "fab fa-html5",
-            "name": "HTML"
-          },
-          {
-            "class": "fab fa-css3-alt",
-            "name": "CSS"
-          }
-        ]
-      },
-      {
         "title": "Pong",
         "startDate": "2023",
-        "description": "A simple pong game built with HTML, CSS, and JavaScript. The game is played with the arrow keys and the space bar.",
+        "description": "Pong is a timeless classic in the world of arcade games, and this project brings the iconic game back to life using vanilla CSS, HTML, and JavaScript. It's a modern take on the original Pong game, offering a nostalgic gaming experience for users of all ages.",
         "images": [
           "images/portfolio/Pong/pong.png"
         ],
@@ -52,12 +33,43 @@
         ]
       },
       {
-        "title": "DrinkLink",
+        "title": "PetPals",
         "startDate": "2023",
-        "description": "A classy drinks app that allows users to search for cocktails and non-alcoholic beverages. Users receive recipes and ingredients with the ability to store favorites. Hosted Live with Netlify and Heroku. Built with MERN stack, Sass, and Auth0.",
+        "description": "Developed a community-driven pet adoption platform where users can view, comment, and inquire about pets available for adoption in the shelter. Leveraged React for the front-end development and utilized Django, Python, and PostgreSQL for crafting a robust backend. Integrated user authentication to allow account creation, adding favorite pets to personal lists, and contacting the shelter about pet adoptions. Demonstrated proficient use of full-stack development skills to create a user-friendly and feature-rich platform.",
+        "images": [
+          "images/portfolio/Petpals/Petpals1.png",
+          "images/portfolio/Petpals/Petpals2.png",
+          "images/portfolio/Petpals/Petpals4.png",
+          "images/portfolio/Petpals/Petpals3.png"
+        ],
+        "url": "https://sei-petpals.netlify.app/",
+        "technologies": [
+          {
+            "class": "fab fa-css3-alt",
+            "name": "CSS"
+          },
+          {
+            "class": "fab fa-react",
+            "name": "React"
+          },
+          {
+            "class": "fab fa-python",
+            "name": "Python"
+          },
+          {
+            "class": "fab fa-js-square",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "DrinkLink",
+        "startDate": "2022",
+        "description": "Developed a sophisticated drinks application with functionalities to search and store favorite cocktail and non-alcoholic beverage recipes. Utilized MERN stack, Sass, and Auth0 for development; hosted live with Netlify and Heroku.",
         "images": [
           "images/portfolio/DrinkHub/drinklink2.png",
-          "images/portfolio/DrinkHub/drinklink.png"
+          "images/portfolio/DrinkHub/drinklink.png",
+          "images/portfolio/DrinkHub/drinklink3.png"
         ],
         "url": "https://dmsdrinklink.netlify.app/",
         "technologies": [
@@ -68,6 +80,18 @@
           {
             "class": "fab fa-bootstrap",
             "name": "Bootstrap"
+          },
+          {
+            "class": "fab fa-node-js",
+            "name": "Node"
+          },
+          {
+            "class": "fab fa-js-square",
+            "name": "JavaScript"
+          },
+          {
+            "class": "fab fa-css3-alt",
+            "name": "CSS"
           }
 
         ]
